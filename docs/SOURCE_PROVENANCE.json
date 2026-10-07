@@ -1,0 +1,104 @@
+[
+  {
+    "file": "experiments/benchmarks/prepare_standard.py",
+    "original_sha256": "73b71bcf26be8f396e42d5093723ca878fc05ffcbf1156aba26b40e9370aa708",
+    "public_sha256": "24944dc2ab01f74abb40d111367c28975e81bcd75a35f2fa8e89c5fd11d607c9",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/run_compact_stage.py",
+    "original_sha256": "16b5eace8de339777dab742b2bffb88750df064af3ad7de7e7f1101bb9d11864",
+    "public_sha256": "7a40359ce01246032b56fb7c6339c7a605adafb3f51a32f8036f235ba6497a6b",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/run_controlled.py",
+    "original_sha256": "794a49b6a0e78a33c206460ec7bf2e51ae8ade5b1a54ef9c80fcddab817aea84",
+    "public_sha256": "f8b70d162b0162e56212c99c54f7a82ea0a7986bf0a0af50b986b181957e7cde",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/run_finetuned.py",
+    "original_sha256": "cb0965cfb4749d28976941e07320db72563ce7c0d1dd9193aa6a9d80aa598a50",
+    "public_sha256": "7d7b5df04750d853c8bf41af1144d8015bf729367612dc7194e0d45b6f8d8e9c",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/run_structural_stage.py",
+    "original_sha256": "ebb4cc2e1778893c7d7ab0efacbca90e16c738f6643f0c0db66a3868454670d3",
+    "public_sha256": "0b26cf92ce479a4283eec2f115343dedc8d81dd11bf21cac2879b742ab685cce",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/compact_stage/explain.py",
+    "original_sha256": "dbc3f954c85df4c6a494f530dc53c0026664f53ad68e34b209cb59501d1c393d",
+    "public_sha256": "dbc3f954c85df4c6a494f530dc53c0026664f53ad68e34b209cb59501d1c393d",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/compact_stage/source/model.py",
+    "original_sha256": "3daf153a51c357f54358e60998a8ff92f527897511dbcd7f03ee46377130db32",
+    "public_sha256": "3daf153a51c357f54358e60998a8ff92f527897511dbcd7f03ee46377130db32",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/data.py",
+    "original_sha256": "8c73439b817efe94643b56446e7132c80d90af267c88d46fe6e066cb143ad7a1",
+    "public_sha256": "8c73439b817efe94643b56446e7132c80d90af267c88d46fe6e066cb143ad7a1",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/explain.py",
+    "original_sha256": "f876553ad68ec085a8e12c456d57856e07a158b92fd261de104d12e4aef3c596",
+    "public_sha256": "f876553ad68ec085a8e12c456d57856e07a158b92fd261de104d12e4aef3c596",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/export.py",
+    "original_sha256": "3a3f70eca56584a9de231f73897e4040e6a0b0e42ef8138c24e2e08f7e67aa3e",
+    "public_sha256": "3a3f70eca56584a9de231f73897e4040e6a0b0e42ef8138c24e2e08f7e67aa3e",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/faithfulness.py",
+    "original_sha256": "6652fdd448dcea6773bc3e218a34834b0c997496de69a516b03e836a6885c108",
+    "public_sha256": "6652fdd448dcea6773bc3e218a34834b0c997496de69a516b03e836a6885c108",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/kan.py",
+    "original_sha256": "3ea3314db1cbe20105691ef380728479d7e58ffb97ba73f17f775133ae9c2c66",
+    "public_sha256": "3ea3314db1cbe20105691ef380728479d7e58ffb97ba73f17f775133ae9c2c66",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/losses.py",
+    "original_sha256": "4988df1a4c872bb7d830c9260f31765e3c090b1573a3a3c9c37dc20788edba8f",
+    "public_sha256": "4988df1a4c872bb7d830c9260f31765e3c090b1573a3a3c9c37dc20788edba8f",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/model.py",
+    "original_sha256": "c21cfc6dbd68500346287f4b97ff255647a594464469f6ec3a7f7227b6c6dda8",
+    "public_sha256": "c21cfc6dbd68500346287f4b97ff255647a594464469f6ec3a7f7227b6c6dda8",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/training.py",
+    "original_sha256": "e0db4c43ea039825516ba02d4f666fc3455df9646581a98bdf284f2cb1c2aab8",
+    "public_sha256": "e0db4c43ea039825516ba02d4f666fc3455df9646581a98bdf284f2cb1c2aab8",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/source/tei_kan/__init__.py",
+    "original_sha256": "359b606b1d0b9cb2bf62587339fd19513729a73676710842cd572b4541bd0fda",
+    "public_sha256": "359b606b1d0b9cb2bf62587339fd19513729a73676710842cd572b4541bd0fda",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  },
+  {
+    "file": "experiments/benchmarks/structural_stage/source/model.py",
+    "original_sha256": "c47c84a2b062774457534b238941cc9ac4f33494670a5f322c1294dedbd6a53e",
+    "public_sha256": "c47c84a2b062774457534b238941cc9ac4f33494670a5f322c1294dedbd6a53e",
+    "changes": "local paths made configurable/redacted; scientific implementation retained"
+  }
+]
