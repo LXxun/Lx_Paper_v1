@@ -1,0 +1,32 @@
+{
+  "MOSI": {
+    "splits": {
+      "train": {
+        "samples": 1284
+      },
+      "valid": {
+        "samples": 229
+      },
+      "test": {
+        "samples": 686
+      }
+    },
+    "explanation_samples": 686,
+    "explanation_videos": 31
+  },
+  "MOSEI": {
+    "splits": {
+      "train": {
+        "samples": 16326
+      },
+      "valid": {
+        "samples": 1871
+      },
+      "test": {
+        "samples": 4659
+      }
+    },
+    "explanation_samples": 300,
+    "explanation_videos": 300
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "protocol": "MULT_SPACE_VALIDATION_V1",
+  "n_records": 1587,
+  "summary": [
+    {
+      "dataset": "MOSEI",
+      "modality": "A",
+      "operation": "delete",
+      "space": "input",
+      "primary": false,
+      "mean": 0.0005839891545474529,
+      "samples": 300,
+      "videos": 300,
+      "ci95": [
+        0.00036147396183676194,
+        0.000814830879266891
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "A",
+      "operation": "delete",
+      "space": "representation",
+      "primary": false,
+      "mean": 0.0018543726143737634,
+      "samples": 300,
+      "videos": 300,
+      "ci95": [
+        0.0015798569028783174,
+        0.0021474834045188294
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "A",
+      "operation": "retain",
+      "space": "input",
+      "primary": false,
+      "mean": -0.0004192567596005068,
+      "samples": 300,
+      "videos": 300,
+      "ci95": [
+        -0.0007482111668731602,
+        -0.00010577062729539179
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "A",
+      "operation": "retain",
+      "space": "representation",
+      "primary": false,
+      "mean": 0.0030430681403312418,
+      "samples": 300,
+      "videos": 300,
+      "ci95": [
+        0.0023913947760851846,
+        0.0037447014411186993
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "T",
+      "operation": "delete",
+      "space": "input",
+      "primary": false,
+      "mean": 0.13990573360895117,
+      "samples": 300,
+      "videos": 300,
+      "ci95": [
+        0.11251912591197633,
+        0.17100984100319644
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "T",
+      "operation": "delete",
+      "space": "representation",
+      "primary": true,
+      "mean": 0.02659151693806052,
+      "samples": 300,
+      "videos": 300,
+      "ci95": [
+        0.023104873294890343,
+        0.030858655598635466
+      ],
+      "ci98_75_bonferroni4": [
+        0.022284943229467093,
+        0.0322531108783377
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "T",
+      "operation": "retain",
+      "space": "input",
+      "primary": false,
+      "mean": 0.11688595905693039,
+      "samples": 300,
+      "videos": 300,
+      "ci95": [
+        0.08568791141443782,
+        0.15054413830913183
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "T",
+      "operation": "retain",
+      "space": "representation",
+      "primary": true,
+      "mean": 0.040421512482894786,
+      "samples": 300,
+      "videos": 300,
+      "ci95": [
+        0.030491326331212706,
+        0.050311458542942986
+      ],
+      "ci98_75_bonferroni4": [
+        0.027709502350137978,
+        0.05330872172886877
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "V",
+      "operation": "delete",
+      "space": "input",
+      "primary": false,
+      "mean": 3.0206864164184156e-05,
+      "samples": 291,
+      "videos": 291,
+      "ci95": [
+        -0.000404046469913179,
+        0.0004506851703286989
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "V",
+      "operation": "delete",
+      "space": "representation",
+      "primary": false,
+      "mean": 0.0013734959172594862,
+      "samples": 291,
+      "videos": 291,
+      "ci95": [
+        0.0009770355358579008,
+        0.0018056745159270114
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "V",
+      "operation": "retain",
+      "space": "input",
+      "primary": false,
+      "mean": -0.000973232982323888,
+      "samples": 291,
+      "videos": 291,
+      "ci95": [
+        -0.001620153199085477,
+        -0.0003591372468802152
+      ]
+    },
+    {
+      "dataset": "MOSEI",
+      "modality": "V",
+      "operation": "retain",
+      "space": "representation",
+      "primary": false,
+      "mean": 0.0021595806971550805,
+      "samples": 291,
+      "videos": 291,
+      "ci95": [
+        0.0012409439701949675,
+        0.0031144875461792502
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "A",
+      "operation": "delete",
+      "space": "input",
+      "primary": false,
+      "mean": 0.006847220616066045,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.00577079634020524,
+        0.007930312643109358
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "A",
+      "operation": "delete",
+      "space": "representation",
+      "primary": false,
+      "mean": 0.007885765601235276,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.006597449543874875,
+        0.009593352940074646
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "A",
+      "operation": "retain",
+      "space": "input",
+      "primary": false,
+      "mean": 0.0009182239565919265,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        -0.00015173076421298146,
+        0.0018221369130478925
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "A",
+      "operation": "retain",
+      "space": "representation",
+      "primary": false,
+      "mean": 0.01105352311516339,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.009050370865462582,
+        0.013630502443585612
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "T",
+      "operation": "delete",
+      "space": "input",
+      "primary": false,
+      "mean": 0.5546726719299442,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.47478180749265025,
+        0.6358378169536688
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "T",
+      "operation": "delete",
+      "space": "representation",
+      "primary": true,
+      "mean": 0.03134699518780594,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.0251753676691818,
+        0.03705577052291059
+      ],
+      "ci98_75_bonferroni4": [
+        0.023470495226719276,
+        0.03845969294012523
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "T",
+      "operation": "retain",
+      "space": "input",
+      "primary": false,
+      "mean": 0.5093603680219552,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.4492942924265665,
+        0.5664316140532438
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "T",
+      "operation": "retain",
+      "space": "representation",
+      "primary": true,
+      "mean": 0.021663135489944675,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        -0.00026222935815118845,
+        0.04409301934821281
+      ],
+      "ci98_75_bonferroni4": [
+        -0.005101898744193976,
+        0.05009261160165244
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "V",
+      "operation": "delete",
+      "space": "input",
+      "primary": false,
+      "mean": 0.0011746906151724333,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.0009266329834246946,
+        0.0013999442889689332
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "V",
+      "operation": "delete",
+      "space": "representation",
+      "primary": false,
+      "mean": 0.0008845108044911943,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.0005150337439043419,
+        0.0012712129442144645
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "V",
+      "operation": "retain",
+      "space": "input",
+      "primary": false,
+      "mean": 0.0007377803829620053,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.00035488285594066887,
+        0.0010886634488920463
+      ]
+    },
+    {
+      "dataset": "MOSI",
+      "modality": "V",
+      "operation": "retain",
+      "space": "representation",
+      "primary": false,
+      "mean": 0.0009223853815354861,
+      "samples": 229,
+      "videos": 10,
+      "ci95": [
+        0.0001972788303314675,
+        0.0016034373975490996
+      ]
+    }
+  ],
+  "limitations": [
+    "validation only",
+    "shared BERT family",
+    "shallow prefusion representation",
+    "MOSI only 10 independent video clusters"
+  ]
+}

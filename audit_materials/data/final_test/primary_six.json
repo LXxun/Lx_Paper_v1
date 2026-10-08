@@ -1,0 +1,104 @@
+[
+  {
+    "id": "MOSI_delete_matching",
+    "mean": 0.0354781163429531,
+    "adjusted_ci": [
+      0.03004204755885941,
+      0.04275345804496686
+    ],
+    "pointwise_ci": [
+      0.031134430220561955,
+      0.04081309350482762
+    ],
+    "samples": 686,
+    "videos": 31,
+    "decision": "supports_direction",
+    "reference_change_rate": 0.20521541950113378,
+    "target_change_rate": 0.003077421444768383
+  },
+  {
+    "id": "MOSI_retain_matching",
+    "mean": 0.057262814794203025,
+    "adjusted_ci": [
+      0.047673476840323324,
+      0.06892641998391408
+    ],
+    "pointwise_ci": [
+      0.04975860127304816,
+      0.06589346656302182
+    ],
+    "samples": 686,
+    "videos": 31,
+    "decision": "supports_direction",
+    "reference_change_rate": 0.20521541950113378,
+    "target_change_rate": 0.003077421444768383
+  },
+  {
+    "id": "MOSI_reference_vs_target",
+    "mean": 0.20213799805636543,
+    "adjusted_ci": [
+      0.18589817548178392,
+      0.2173284403295915
+    ],
+    "pointwise_ci": [
+      0.19007021198979476,
+      0.21364985163204747
+    ],
+    "samples": 686,
+    "videos": 31,
+    "decision": "supports_direction",
+    "reference_change_rate": 0.20521541950113378,
+    "target_change_rate": 0.003077421444768383
+  },
+  {
+    "id": "MOSEI_delete_matching",
+    "mean": 0.02060814944590136,
+    "adjusted_ci": [
+      0.017461150598666018,
+      0.024190906637025708
+    ],
+    "pointwise_ci": [
+      0.01820257551595083,
+      0.023218833012157925
+    ],
+    "samples": 300,
+    "videos": 300,
+    "decision": "supports_direction",
+    "reference_change_rate": 0.14851851851851852,
+    "target_change_rate": 0.0007407407407407407
+  },
+  {
+    "id": "MOSEI_retain_matching",
+    "mean": 0.02158708644498903,
+    "adjusted_ci": [
+      0.017692485979578527,
+      0.026323525967686185
+    ],
+    "pointwise_ci": [
+      0.01859440687021347,
+      0.02499195458701784
+    ],
+    "samples": 300,
+    "videos": 300,
+    "decision": "supports_direction",
+    "reference_change_rate": 0.14851851851851852,
+    "target_change_rate": 0.0007407407407407407
+  },
+  {
+    "id": "MOSEI_reference_vs_target",
+    "mean": 0.14777777777777779,
+    "adjusted_ci": [
+      0.13055555555555573,
+      0.16574074074074108
+    ],
+    "pointwise_ci": [
+      0.13500000000000015,
+      0.16111111111111134
+    ],
+    "samples": 300,
+    "videos": 300,
+    "decision": "supports_direction",
+    "reference_change_rate": 0.14851851851851852,
+    "target_change_rate": 0.0007407407407407407
+  }
+]

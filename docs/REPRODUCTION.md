@@ -16,20 +16,19 @@ python prepare_standard.py --dataset MOSI
 python run_compact_stage.py --model tei_mlp --variant main_only --dataset MOSI --seed 2026 --gpu 0
 ```
 
-The guarded final-test and recurrent follow-up runners additionally require checkpoints, manifests and locks. The historical execution locks are not in this code-only release. Do not fabricate or bypass them: audit the exact assets and implementation for your own run and record new hashes. Public portability changes alter code hashes from the historical execution. `docs/SOURCE_PROVENANCE.json` records the fetched source hashes and public export hashes.
+The guarded final-test and recurrent follow-up runners additionally require checkpoints, manifests and locks. The historical execution locks are not in this release. Do not fabricate or bypass them: audit the exact assets and implementation for your own run and record new hashes. Public portability changes alter code hashes from the historical execution. `docs/SOURCE_PROVENANCE.json` records the fetched source hashes and public export hashes.
 
-## Table and figure scripts
+## Table and inference reconstruction
 
-With separately supplied numerical result archives, table templates and displayed table references, these entries reconstruct archived numbers:
+The complete lightweight numerical entry is now:
 
 ```sh
-python source/reproduce_main_tables.py --out outputs/main_tables --check
-python source/reproduce_recurrent_tables.py --out outputs/recurrent_tables --check
+python audit_materials/reproduce.py --out outputs/numerical_audit
 ```
 
-They expect the original `data/`, `tables/` and `reproduction/INPUT_HASHES.json` layout described in their source. Those result artifacts are intentionally absent from this release. Confidence intervals are copied from archived summaries, not re-estimated by these display scripts. `source/build_heldout_matrix.py` likewise requires the archived result inputs and matplotlib.
+The bundled inputs rebuild eight tables (36 rows), the reported hybrid aggregate magnitudes, and fourteen adjusted intervals. The script verifies hashes, executes table checks, then recalculates the bootstrap from anonymous video sums/counts. It reports effective samples, clusters, seeds, weights and differences from the archived reference values. It needs only Python and NumPy and performs no inference. The [bundle README](../audit_materials/README.md) documents scope and exact commands.
 
-Before publication, the scripts were tested against the local archives (eight tables / 36 rows). The public code-only checkout cannot independently repeat those checks without the omitted assets. Original model evaluation and raw-record bootstrap implementations are provided for inspection and use with independently provisioned inputs.
+The older root-level `source/reproduce_*` and `source/build_heldout_matrix.py` entries retain their original archive requirements for historical inspection. Use the self-contained `audit_materials` entry for the public numerical audit. Checkpoints, raw records and features are still required to verify the upstream generation of those statistics.
 
 ## Interpretation
 

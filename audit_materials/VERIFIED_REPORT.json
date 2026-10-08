@@ -1,0 +1,321 @@
+{
+  "status": "passed",
+  "numeric_tables": 8,
+  "numeric_rows": 36,
+  "adjusted_intervals_recomputed": 14,
+  "results": [
+    {
+      "family": "original",
+      "dataset": "MOSI",
+      "contrast": "delete_matching",
+      "mean": 0.035478116342953094,
+      "adjusted_ci": [
+        0.03004204755885941,
+        0.04275345804496686
+      ],
+      "samples": 686,
+      "videos": 31,
+      "replicates": 50000,
+      "random_seed": 2026100201,
+      "weighting": "equal-segment",
+      "reference": [
+        0.0354781163429531,
+        0.03004204755885941,
+        0.04275345804496686
+      ],
+      "max_absolute_error": 6.938893903907228e-18,
+      "passed": true
+    },
+    {
+      "family": "original",
+      "dataset": "MOSI",
+      "contrast": "retain_matching",
+      "mean": 0.05726281479420303,
+      "adjusted_ci": [
+        0.047673476840323324,
+        0.06892641998391408
+      ],
+      "samples": 686,
+      "videos": 31,
+      "replicates": 50000,
+      "random_seed": 2026100201,
+      "weighting": "equal-segment",
+      "reference": [
+        0.057262814794203025,
+        0.047673476840323324,
+        0.06892641998391408
+      ],
+      "max_absolute_error": 6.938893903907228e-18,
+      "passed": true
+    },
+    {
+      "family": "original",
+      "dataset": "MOSI",
+      "contrast": "reference_vs_target",
+      "mean": 0.20213799805636543,
+      "adjusted_ci": [
+        0.18589817548178392,
+        0.2173284403295915
+      ],
+      "samples": 686,
+      "videos": 31,
+      "replicates": 50000,
+      "random_seed": 2026100201,
+      "weighting": "equal-segment",
+      "reference": [
+        0.20213799805636543,
+        0.18589817548178392,
+        0.2173284403295915
+      ],
+      "max_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "family": "original",
+      "dataset": "MOSEI",
+      "contrast": "delete_matching",
+      "mean": 0.020608149445901374,
+      "adjusted_ci": [
+        0.017461150598666018,
+        0.024190906637025708
+      ],
+      "samples": 300,
+      "videos": 300,
+      "replicates": 50000,
+      "random_seed": 2026100202,
+      "weighting": "equal-segment",
+      "reference": [
+        0.02060814944590136,
+        0.017461150598666018,
+        0.024190906637025708
+      ],
+      "max_absolute_error": 1.3877787807814457e-17,
+      "passed": true
+    },
+    {
+      "family": "original",
+      "dataset": "MOSEI",
+      "contrast": "retain_matching",
+      "mean": 0.021587086444989037,
+      "adjusted_ci": [
+        0.017692485979578527,
+        0.026323525967686185
+      ],
+      "samples": 300,
+      "videos": 300,
+      "replicates": 50000,
+      "random_seed": 2026100202,
+      "weighting": "equal-segment",
+      "reference": [
+        0.02158708644498903,
+        0.017692485979578527,
+        0.026323525967686185
+      ],
+      "max_absolute_error": 6.938893903907228e-18,
+      "passed": true
+    },
+    {
+      "family": "original",
+      "dataset": "MOSEI",
+      "contrast": "reference_vs_target",
+      "mean": 0.14777777777777812,
+      "adjusted_ci": [
+        0.13055555555555573,
+        0.16574074074074108
+      ],
+      "samples": 300,
+      "videos": 300,
+      "replicates": 50000,
+      "random_seed": 2026100202,
+      "weighting": "equal-segment",
+      "reference": [
+        0.14777777777777779,
+        0.13055555555555573,
+        0.16574074074074108
+      ],
+      "max_absolute_error": 3.3306690738754696e-16,
+      "passed": true
+    },
+    {
+      "family": "recurrent",
+      "dataset": "MOSI",
+      "contrast": "delete_matching",
+      "mean": 0.1428612148409811,
+      "adjusted_ci": [
+        0.13144794844348076,
+        0.15447390526595436
+      ],
+      "samples": 686,
+      "videos": 31,
+      "replicates": 50000,
+      "random_seed": 2026100701,
+      "weighting": "equal-segment",
+      "reference": [
+        0.14286121484098105,
+        0.13144794844348076,
+        0.15447390526595436
+      ],
+      "max_absolute_error": 5.551115123125783e-17,
+      "passed": true
+    },
+    {
+      "family": "recurrent",
+      "dataset": "MOSI",
+      "contrast": "retain_matching",
+      "mean": 0.10889152609562727,
+      "adjusted_ci": [
+        0.0998611552182887,
+        0.117965884983552
+      ],
+      "samples": 686,
+      "videos": 31,
+      "replicates": 50000,
+      "random_seed": 2026100701,
+      "weighting": "equal-segment",
+      "reference": [
+        0.1088915260956273,
+        0.0998611552182887,
+        0.117965884983552
+      ],
+      "max_absolute_error": 2.7755575615628914e-17,
+      "passed": true
+    },
+    {
+      "family": "recurrent",
+      "dataset": "MOSEI",
+      "contrast": "delete_matching",
+      "mean": 0.10887144675167897,
+      "adjusted_ci": [
+        0.09978715069245586,
+        0.1181805163390325
+      ],
+      "samples": 300,
+      "videos": 300,
+      "replicates": 50000,
+      "random_seed": 2026100702,
+      "weighting": "equal-segment",
+      "reference": [
+        0.10887144675167898,
+        0.09978715069245586,
+        0.1181805163390325
+      ],
+      "max_absolute_error": 1.3877787807814457e-17,
+      "passed": true
+    },
+    {
+      "family": "recurrent",
+      "dataset": "MOSEI",
+      "contrast": "retain_matching",
+      "mean": 0.0773655135465864,
+      "adjusted_ci": [
+        0.06688564023561572,
+        0.08790301515707563
+      ],
+      "samples": 300,
+      "videos": 300,
+      "replicates": 50000,
+      "random_seed": 2026100702,
+      "weighting": "equal-segment",
+      "reference": [
+        0.07736551354658634,
+        0.06688564023561572,
+        0.08790301515707563
+      ],
+      "max_absolute_error": 5.551115123125783e-17,
+      "passed": true
+    },
+    {
+      "family": "mult",
+      "dataset": "MOSI",
+      "contrast": "delete_matching",
+      "mean": 0.03134699518780594,
+      "adjusted_ci": [
+        0.023470495226719276,
+        0.03845969294012523
+      ],
+      "samples": 229,
+      "videos": 10,
+      "replicates": 20000,
+      "random_seed": 20261005,
+      "weighting": "equal-video",
+      "reference": [
+        0.03134699518780594,
+        0.023470495226719276,
+        0.03845969294012523
+      ],
+      "max_absolute_error": 0.0,
+      "passed": true
+    },
+    {
+      "family": "mult",
+      "dataset": "MOSI",
+      "contrast": "retain_matching",
+      "mean": 0.02166313548994467,
+      "adjusted_ci": [
+        -0.005101898744193976,
+        0.05009261160165244
+      ],
+      "samples": 229,
+      "videos": 10,
+      "replicates": 20000,
+      "random_seed": 20261005,
+      "weighting": "equal-video",
+      "reference": [
+        0.021663135489944675,
+        -0.005101898744193976,
+        0.05009261160165244
+      ],
+      "max_absolute_error": 3.469446951953614e-18,
+      "passed": true
+    },
+    {
+      "family": "mult",
+      "dataset": "MOSEI",
+      "contrast": "delete_matching",
+      "mean": 0.02659151693806052,
+      "adjusted_ci": [
+        0.02228494322946709,
+        0.03225311087833772
+      ],
+      "samples": 300,
+      "videos": 300,
+      "replicates": 20000,
+      "random_seed": 20261005,
+      "weighting": "equal-video",
+      "reference": [
+        0.02659151693806052,
+        0.022284943229467093,
+        0.0322531108783377
+      ],
+      "max_absolute_error": 1.3877787807814457e-17,
+      "passed": true
+    },
+    {
+      "family": "mult",
+      "dataset": "MOSEI",
+      "contrast": "retain_matching",
+      "mean": 0.04042151248289478,
+      "adjusted_ci": [
+        0.027709502350137968,
+        0.053308721728868795
+      ],
+      "samples": 300,
+      "videos": 300,
+      "replicates": 20000,
+      "random_seed": 20261005,
+      "weighting": "equal-video",
+      "reference": [
+        0.040421512482894786,
+        0.027709502350137978,
+        0.05330872172886877
+      ],
+      "max_absolute_error": 2.7755575615628914e-17,
+      "passed": true
+    }
+  ],
+  "python": "3.12.4",
+  "numpy": "2.5.2",
+  "inference_run": false,
+  "original_records_reconstructed": false,
+  "scope": "Eight tables from archived aggregates; fourteen intervals from anonymous video sums/counts. Does not validate model inference or reconstruct individual selections."
+}

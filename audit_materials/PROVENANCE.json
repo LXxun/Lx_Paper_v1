@@ -1,0 +1,31 @@
+{
+  "created": "2026-10-08",
+  "operation": "Read-only reaggregation of already completed results; no training or inference; no historical locks changed",
+  "original_raw_sha256": {
+    "results/MOSI/main_only/seed2026/paired.jsonl.gz": "06ab47145c1956610a4e075e66ea82f8b81b86777aa7f942ded5cf098d97e3bf",
+    "results/MOSI/main_only/seed2027/paired.jsonl.gz": "17a6b151eeb3d8701191f6fd8d3eed5a1481f20342c8293cc1e79e9d394b4911",
+    "results/MOSI/main_only/seed2028/paired.jsonl.gz": "68fee05e7e79a5a3b0a5a5178e270cfb45851ba32439c6873af31479ef9e70fc",
+    "results/MOSI/main_pair/seed2026/paired.jsonl.gz": "f2306b98c2d5cc48762f969af6c3c37cb5030458f284c282082ffdac2b01ae9c",
+    "results/MOSI/main_pair/seed2027/paired.jsonl.gz": "9ba2adffc651747ad67e76684001cd500a7aa8cf7b34159d75c3c7577c7e9420",
+    "results/MOSI/main_pair/seed2028/paired.jsonl.gz": "020b784b11a58ed27a2474031c08a5eefd12f336134926f1d61cab343c3fc718",
+    "results/MOSI/concat/seed2026/paired.jsonl.gz": "aeaa7d028ca74736f5135f3175bcaebc96b736f798e675ecad5af5a8ecb202ff",
+    "results/MOSI/concat/seed2027/paired.jsonl.gz": "6b924f032359b8fcb518019c90e6fb2e68e6c7376025e4c0f2fb49f87e38f5c4",
+    "results/MOSI/concat/seed2028/paired.jsonl.gz": "02043db8d8f2d8b5262ad65febee9ec468774f076638d6f2831bc1edaf624b1e",
+    "results/MOSEI/main_only/seed2026/paired.jsonl.gz": "e185cf6596a3a37c319ca0d54a9cea121283b07f0bd0169384ee8246eaaced69",
+    "results/MOSEI/main_only/seed2027/paired.jsonl.gz": "a7f3c7a3f56f791b9bf6fbdf0ed89c1333167817d7c17f651887e13c1b662c98",
+    "results/MOSEI/main_only/seed2028/paired.jsonl.gz": "eb60de27946907738f17dc9dede54083bdf70d13d20d6c6532452c22df91a8e8",
+    "results/MOSEI/main_pair/seed2026/paired.jsonl.gz": "febfc061eeab62614ca8e68582bb55df1c92a28aa30ed21f875b930f8d3de968",
+    "results/MOSEI/main_pair/seed2027/paired.jsonl.gz": "259c682b35401fe6fb6af2b56501063bddfc8e9b52930340decf285817a98160",
+    "results/MOSEI/main_pair/seed2028/paired.jsonl.gz": "516a36eacc09b8cf96556ec547c660085f9ca0560689fb511be07bf8792c0320",
+    "results/MOSEI/concat/seed2026/paired.jsonl.gz": "7540c8cd59a1f13c8b1ce6c371072904bca2737025ac1d6d6813811ac52e11c8",
+    "results/MOSEI/concat/seed2027/paired.jsonl.gz": "215e9f4fbef63e0c6c4d23e6fabe356d8a80603c7ce70c5cf2e9cb853d1c1b5e",
+    "results/MOSEI/concat/seed2028/paired.jsonl.gz": "474ce4a5828d2bbacab73fbf2ec526080e1f5f46dd0fd665bbbd0e42121c40a9"
+  },
+  "original_aggregation_source_sha256": "a026cb3d95ce7b3a496a168af6f86ca9d493a97f6581b7b046bc88360c249f2f",
+  "read_only_original_export_sha256": "77283a4beb089c1d4a39c38c0b03e35420baa0c3b650327dc27d42696958db6d",
+  "local_followup_export_sha256": "94be590815d2976091da4960e363b1a9c01e68ca7314adc21e2b24da0a674cc9",
+  "historical_original_summary_sha256": "c33a8b4bef114beb46d8a77e6dd119a39b0f83c8f3c771b361771f58b86e6268",
+  "historical_recurrent_summary_sha256": "c4389a98e8779838114d9a7d88fc146216dd849ccfb1c8ad8c99aac7697db28d",
+  "historical_mult_summary_sha256": "4686a7c05769bcf1e83d2bbbd0467e756ca6c39518c6b0c1be15aac61ff94fc3",
+  "notes": "Public group codes are ordinal cluster identifiers; no original-ID lookup is included. Input hashes in this export pin selected/sanitized aggregate fields, not replacements for historical experiment locks."
+}

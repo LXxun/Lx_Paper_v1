@@ -1,0 +1,3074 @@
+[
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.6376910084187141
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.15496164800983198
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8272779142960138
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.5782394784259898
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.6376910084187141
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.15496164800983198
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8272779142960138
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.5782394784259898
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 1.1473413191960133
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.1275312797384983
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.4395584140403514
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.647833059078143
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.6599989469159216
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.15510492572617246
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8070547168488832
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.5819647964831139
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7073283896210628
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.15496164808223797
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8863063714416306
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.5782394777091701
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7073283896210628
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.15496164808223797
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8863063714416306
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.5782394777091701
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 1.18421383920604
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.1286848755560153
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.5367926555152044
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.6444213543313739
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7247948617688212
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.1551049257985785
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8683018143079719
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.5819647957662942
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.6376195437339586
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2884598991838605
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8124267511930501
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.7999904561145014
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.634263592303583
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2884712771721188
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8155506603791767
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.800045963764472
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 1.1352099518699388
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.24586466742795782
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.42874831055310003
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.8541880588620686
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.6366609483140461
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.28854887858187045
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8157617861247306
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.8002038073723283
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7180949305573368
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2884598990678977
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8831726269069261
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.7999904569435505
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7133620852503592
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.28847127699823116
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.885543835496682
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.8000459644631903
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 1.16577930664763
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.24806123695489463
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.5685393114080874
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.8516164623351136
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.713794976431108
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2885488790597502
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8824748511711701
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.8002038080565653
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7056349692850651
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.27546312127087447
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8153616465431632
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.7743738792321677
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7055314298770587
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2754636924096475
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8150924226154068
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.7743736178753582
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 1.1817388792002228
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.23719430105707293
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.43324566266423215
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.8303688739901202
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7133989712978074
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2754666818808959
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.8089627987730399
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.7744937806437291
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7656967346391307
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.27546312104279547
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.9094348010218644
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.7743738797661623
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7655465311659961
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2754636921815686
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.9091396598404076
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.7743736184093526
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 1.2219236559095743
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2380359139079269
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.5619903016861246
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.8284738496681531
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.7754099923328553
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.2754666816528169
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 686,
+    "mean": 0.9027000336036074
+  },
+  {
+    "dataset": "MOSI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 686,
+    "mean": 0.7744937811777235
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3012066109299647
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.14090735938079887
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.4004426853378795
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.3968209011172359
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3012066109299647
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.14090735938079887
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.4004426853378795
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.3968209011172359
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.4247314007513665
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.11979685633184595
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3078101332770246
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.4192646746259804
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3057396949638496
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.1409249859747231
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.39332946535639673
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.3969608206542519
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.33607635825523174
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.14090735962915157
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.4442109262842375
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.3968209011669064
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.33607635825523174
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.14090735962915157
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.4442109262842375
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.3968209011669064
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.41998956639242047
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.11675002096570097
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.38889019600814206
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.422439775489814
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3388580454312937
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.1409249862230758
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.43816645643078816
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_only",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.39696082070392247
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.2646782884649454
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.14042784741693243
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.33858570337541294
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.40407117203285453
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.26551559480796444
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.14043458914515214
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3387544987416671
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.4040745375387552
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3660071096980957
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.1210260723867557
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.25030520770323667
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.42382865458778624
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.27279218247842635
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.1405151477533865
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3340709208116297
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.40441307977896135
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.2788287302845856
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.14042784666359592
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.37191151486813195
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.4040711718610772
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.27945448379905435
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.14043458839181563
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3724258904148721
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.40407453736697796
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3678066411051097
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.12023239847557207
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3148565562831289
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.42509515061104647
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.28485771793193027
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.140515146784811
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3686900960467756
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "main_pair",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.40441307962270606
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.2753695496453697
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.13659885483502876
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.4080814801136795
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.39930710686057047
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.2753273065090697
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.1365988503232883
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.40821306136549945
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.39930711948516545
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.3970259169071344
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.11762791604974254
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.29465512892697004
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.4199568479459008
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.27500958601452613
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.13659728257574089
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.40886498477956695
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "mask_mean",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.399405511421533
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.2985528698126372
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.1365988546735995
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.4286850671488275
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "coalition",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.39930710685022247
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.2984475870489971
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.13659885016185905
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.42875746351330446
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "ig_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.3993071194748174
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.39538606436202023
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.11699267084102352
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.35354268130005545
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_input",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.4204962390019662
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.2976163621171792
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "delete",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.13659728241431163
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "input"
+    ],
+    "samples": 300,
+    "mean": 0.4284104937053699
+  },
+  {
+    "dataset": "MOSEI",
+    "configuration": [
+      "concat",
+      "unk_zero",
+      "zero",
+      "intensity",
+      0.2,
+      "T",
+      "group_occlusion_evidence",
+      "retain",
+      "evidence"
+    ],
+    "samples": 300,
+    "mean": 0.399405511411185
+  }
+]

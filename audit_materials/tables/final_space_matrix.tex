@@ -1,0 +1,10 @@
+\begin{table}[!htbp]\centering\small
+\caption{Descriptive held-out cross-space utility matrix: text, 20\% budget, bounded output and zero evidence reference. Columns pair evaluation spaces $U_i$ and $U_e$ with input-derived and evidence-derived occlusion rankings $O_i$ and $O_e$. Values average three heads, three seeds and two substitutions within each dataset. Higher is better within an operation; retention utility is negative absolute reconstruction loss. Only $U_e(O_e)-U_e(O_i)$ has the primary adjusted inference in Table~\ref{tab:test-primary}; other differences are descriptive.}\label{tab:test-space-matrix}
+\begin{tabular}{llrrrr}\toprule
+Dataset & Operation & $U_i(O_i)$ & $U_i(O_e)$ & $U_e(O_i)$ & $U_e(O_e)$ \\\midrule
+MOSI & Delete & 1.172701 & 0.704010 & 0.204229 & 0.239707 \\
+MOSI & Retain & -0.494812 & -0.847543 & -0.776150 & -0.718887 \\
+MOSEI & Delete & 0.395158 & 0.295812 & 0.118738 & 0.139346 \\
+MOSEI & Retain & -0.318343 & -0.395255 & -0.421847 & -0.400260 \\
+\bottomrule\end{tabular}
+\end{table}

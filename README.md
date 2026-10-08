@@ -1,8 +1,8 @@
 # Lx_Paper_v1
 
-Code for **Evaluating Multimodal Sentiment Explanations across Input and Representation Spaces**, by Xun Liu and Weibing Wan.
+Code for **Evaluating Multimodal Sentiment Explanations across Input and Representation Spaces**, by Xun Liu, Aodi Liu and Weibing Wan. Xun Liu and Aodi Liu share first authorship.
 
-This code-only release contains the study's model, training, attribution, intervention-evaluation and analysis implementations. It investigates how comparisons change between input re-encoding and frozen evidence; it does not claim a universally superior attribution algorithm.
+This release contains the study's model, training, attribution, intervention-evaluation and analysis implementations. It investigates how comparisons change between input re-encoding and frozen evidence; it does not claim a universally superior attribution algorithm.
 
 ## Contents
 
@@ -24,15 +24,19 @@ python tests/test_core.py
 
 The two checks cover WordPiece grouping/continuous-window rules and model evidence-to-output consistency on synthetic inputs. They passed in the original Linux research environment. Python syntax checks also passed; a full GPU retraining/evaluation of this portable export has not been performed.
 
-## Reproduction scope
+## Numerical audit: no datasets or weights required
 
-This is a **code-only** publication. MOSI/MOSEI feature packages, pretrained and trained weights, participant-level records, aggregate numerical result archives, private execution logs and manuscripts are not included.
+```sh
+python audit_materials/reproduce.py --out outputs/numerical_audit
+```
 
-Full model experiments require separately obtained data and pretrained assets, appropriate external dependencies, and newly audited execution manifests. The reconstruction scripts require the author's result archives; they are not runnable end-to-end from this checkout alone. See [REPRODUCTION.md](docs/REPRODUCTION.md) for exact requirements. Public code improves inspectability but does not make the complete experiment independently reproducible without those assets.
+Requires Python and NumPy. Use a new output directory. The public audit bundle reconstructs **8 tables / 36 numerical rows** and recomputes **14 adjusted bootstrap intervals** from anonymous per-video contrast sums and segment counts. It preserves the original six-contrast family and the two separate four-contrast follow-up families. See [audit instructions](audit_materials/README.md), [sharing review](audit_materials/SHARING_REVIEW.md), and the [verified report](audit_materials/VERIFIED_REPORT.json).
+
+This audit checks numerical aggregation and inference arithmetic, not training or original model inference. MOSI/MOSEI media, transcripts, labels, feature tensors, original identifiers, individual intervention records and weights are excluded. Full model experiments still require separately obtained assets and newly audited execution manifests. See [REPRODUCTION.md](docs/REPRODUCTION.md).
 
 ## Dependencies and attribution
 
-The research environment used Python 3.10, PyTorch 2.6.0/CUDA 12.4 and NumPy 1.26.4; see `requirements-models.txt`. Third-party dependencies retain their own licenses and are not vendored. No additional redistribution license is granted by this initial code-availability release.
+The research environment used Python 3.10, PyTorch 2.6.0/CUDA 12.4 and NumPy 1.26.4; see `requirements-models.txt`. Third-party dependencies retain their own licenses and are not vendored. No license over upstream datasets or third-party assets is granted by this release.
 
 - MMSA: https://github.com/thuiar/MMSA
 - CMU Multimodal SDK: https://github.com/CMU-MultiComp-Lab/CMU-MultimodalSDK

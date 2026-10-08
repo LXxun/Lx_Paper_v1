@@ -1,0 +1,130 @@
+{
+  "prediction_statuses": [
+    {
+      "path": "/MOSI/main_only/status.json",
+      "MAE": 0.7690848708152771,
+      "Pearson": 0.762510540410531,
+      "Acc2": 0.8292682926829268,
+      "weighted_F1": 0.829004042514916
+    },
+    {
+      "path": "/MOSI/main_only/status.json",
+      "MAE": 0.7751647233963013,
+      "Pearson": 0.7626767844031489,
+      "Acc2": 0.8338414634146342,
+      "weighted_F1": 0.8344089246372587
+    },
+    {
+      "path": "/MOSI/main_only/status.json",
+      "MAE": 0.7561562657356262,
+      "Pearson": 0.7686720777584263,
+      "Acc2": 0.836890243902439,
+      "weighted_F1": 0.8351269957401365
+    },
+    {
+      "path": "/MOSI/concat/status.json",
+      "MAE": 0.7644959092140198,
+      "Pearson": 0.7572154623726118,
+      "Acc2": 0.8399390243902439,
+      "weighted_F1": 0.8403774334163924
+    },
+    {
+      "path": "/MOSI/concat/status.json",
+      "MAE": 0.7943387627601624,
+      "Pearson": 0.7575847034822738,
+      "Acc2": 0.8292682926829268,
+      "weighted_F1": 0.8302205874774838
+    },
+    {
+      "path": "/MOSI/concat/status.json",
+      "MAE": 0.748735785484314,
+      "Pearson": 0.7814910585721072,
+      "Acc2": 0.8414634146341463,
+      "weighted_F1": 0.8401888471574883
+    },
+    {
+      "path": "/MOSI/main_pair/status.json",
+      "MAE": 0.7476478219032288,
+      "Pearson": 0.7626307917897422,
+      "Acc2": 0.8292682926829268,
+      "weighted_F1": 0.8290955648282323
+    },
+    {
+      "path": "/MOSI/main_pair/status.json",
+      "MAE": 0.801775336265564,
+      "Pearson": 0.7630985681296636,
+      "Acc2": 0.8323170731707317,
+      "weighted_F1": 0.8327459744510005
+    },
+    {
+      "path": "/MOSI/main_pair/status.json",
+      "MAE": 0.792251706123352,
+      "Pearson": 0.7745700400009523,
+      "Acc2": 0.8277439024390244,
+      "weighted_F1": 0.8282157140576413
+    },
+    {
+      "path": "/MOSEI/main_only/status.json",
+      "MAE": 0.5487351417541504,
+      "Pearson": 0.757239836415642,
+      "Acc2": 0.8516785910842047,
+      "weighted_F1": 0.8499041852051915
+    },
+    {
+      "path": "/MOSEI/main_only/status.json",
+      "MAE": 0.5486747622489929,
+      "Pearson": 0.7467165745367822,
+      "Acc2": 0.8481012658227848,
+      "weighted_F1": 0.8469214999228422
+    },
+    {
+      "path": "/MOSEI/main_only/status.json",
+      "MAE": 0.5553299188613892,
+      "Pearson": 0.7484829890113454,
+      "Acc2": 0.8357182168409466,
+      "weighted_F1": 0.8355795245071767
+    },
+    {
+      "path": "/MOSEI/concat/status.json",
+      "MAE": 0.5680590867996216,
+      "Pearson": 0.7480090008377649,
+      "Acc2": 0.8494771601541001,
+      "weighted_F1": 0.8469041682468498
+    },
+    {
+      "path": "/MOSEI/concat/status.json",
+      "MAE": 0.5462164878845215,
+      "Pearson": 0.7484017064308333,
+      "Acc2": 0.8533296642817831,
+      "weighted_F1": 0.8523925335979995
+    },
+    {
+      "path": "/MOSEI/concat/status.json",
+      "MAE": 0.5658396482467651,
+      "Pearson": 0.737527429025374,
+      "Acc2": 0.8277380297193175,
+      "weighted_F1": 0.8288664386900233
+    },
+    {
+      "path": "/MOSEI/main_pair/status.json",
+      "MAE": 0.5586720108985901,
+      "Pearson": 0.7522964753736581,
+      "Acc2": 0.852504127682994,
+      "weighted_F1": 0.8499332205876267
+    },
+    {
+      "path": "/MOSEI/main_pair/status.json",
+      "MAE": 0.5544488430023193,
+      "Pearson": 0.7398741922237817,
+      "Acc2": 0.8464501926252064,
+      "weighted_F1": 0.8439109672503478
+    },
+    {
+      "path": "/MOSEI/main_pair/status.json",
+      "MAE": 0.5618571043014526,
+      "Pearson": 0.7366358162777131,
+      "Acc2": 0.8538800220143093,
+      "weighted_F1": 0.8512504860098488
+    }
+  ]
+}

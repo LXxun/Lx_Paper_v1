@@ -1,0 +1,10 @@
+\begin{table}[!htbp]\centering\small
+\caption{Final prediction on complete test splits. Entries are three-seed mean $\pm$ sample SD; binary metrics exclude true-zero labels.}\label{tab:test-prediction}
+\begin{tabular}{llcccc}\toprule Dataset & Head & MAE & Pearson & Acc2 (\%) & F1 (\%) \\\midrule
+MOSI & Main only & $0.7668 \pm 0.0097$ & $0.7646 \pm 0.0035$ & $83.33 \pm 0.38$ & $83.28 \pm 0.33$ \\
+MOSI & Main + pair & $0.7806 \pm 0.0289$ & $0.7668 \pm 0.0068$ & $82.98 \pm 0.23$ & $83.00 \pm 0.24$ \\
+MOSI & Concat & $0.7692 \pm 0.0232$ & $0.7654 \pm 0.0139$ & $83.69 \pm 0.66$ & $83.69 \pm 0.58$ \\
+MOSEI & Main only & $0.5509 \pm 0.0038$ & $0.7508 \pm 0.0056$ & $84.52 \pm 0.84$ & $84.41 \pm 0.76$ \\
+MOSEI & Main + pair & $0.5583 \pm 0.0037$ & $0.7429 \pm 0.0083$ & $85.09 \pm 0.40$ & $84.84 \pm 0.39$ \\
+MOSEI & Concat & $0.5600 \pm 0.0120$ & $0.7446 \pm 0.0062$ & $84.35 \pm 1.38$ & $84.27 \pm 1.23$ \\
+\bottomrule\end{tabular}\end{table}

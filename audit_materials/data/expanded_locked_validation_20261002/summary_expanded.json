@@ -1,0 +1,628 @@
+{
+  "cells": [
+    {
+      "dataset": "MOSI",
+      "variant": "main_only",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.4803086660153014
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_only",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.3675667877116524
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_only",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.45358642299552454
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_only",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.3743195076048743
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_only",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.526302064115553
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_only",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.42472611747653627
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_only",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.5125698484466825
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_only",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.4335848193143236
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_pair",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.4351290037007894
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_pair",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.3270502017920747
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_pair",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.4397831686847474
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_pair",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.3268517889848367
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_pair",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.47596057805595676
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_pair",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.36755525297858094
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_pair",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.47470133739286013
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "main_pair",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.3697075967723029
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "concat",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.4487549174376025
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "concat",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.3528910307288224
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "concat",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.4415292217709013
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "concat",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.35660417717298576
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "concat",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.4961688591264259
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "concat",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.3990884916677263
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "concat",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.49367690551382104
+      }
+    },
+    {
+      "dataset": "MOSI",
+      "variant": "concat",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.40375320237771145
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_only",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.21101631594962075
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_only",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.1147953391496493
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_only",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.20706165506284177
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_only",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.11470295467591819
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_only",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.22147055792376502
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_only",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.12318243854760011
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_only",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.22088916323270597
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_only",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.12206104844520774
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_pair",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.18429437371649934
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_pair",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.07911263331356976
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_pair",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.16690230324195
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_pair",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.0830392320614515
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_pair",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.18102438396431453
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_pair",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.08027635808898291
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_pair",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.17728538794294257
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "main_pair",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.08137588429801529
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "concat",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.19819332783954452
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "concat",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.10866055173542312
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "concat",
+      "substitution": "mask_mean",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.20550106645526184
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "concat",
+      "substitution": "mask_mean",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.10709631290385409
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "concat",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.20666662648456016
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "concat",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "zero",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.10845920016458775
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "concat",
+      "substitution": "unk_zero",
+      "operation": "delete",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.2087118770320093
+      }
+    },
+    {
+      "dataset": "MOSEI",
+      "variant": "concat",
+      "substitution": "unk_zero",
+      "operation": "retain",
+      "modality": "T",
+      "reference": "encoded",
+      "target": "intensity",
+      "budget": 0.2,
+      "coalition_mean_absolute_gap": {
+        "outside_reencoding": 0.10747116772160452
+      }
+    }
+  ]
+}

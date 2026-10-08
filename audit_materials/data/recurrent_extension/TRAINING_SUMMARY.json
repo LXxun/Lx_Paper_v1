@@ -1,0 +1,56 @@
+[
+  {
+    "dataset": "MOSI",
+    "seed": 2026,
+    "MAE": 1.0514556169509888,
+    "Pearson": 0.572628369021392,
+    "completion": {
+      "epochs": 24
+    }
+  },
+  {
+    "dataset": "MOSI",
+    "seed": 2027,
+    "MAE": 1.217527985572815,
+    "Pearson": 0.4134022908848793,
+    "completion": {
+      "epochs": 13
+    }
+  },
+  {
+    "dataset": "MOSI",
+    "seed": 2028,
+    "MAE": 1.1231247186660767,
+    "Pearson": 0.5158554034934071,
+    "completion": {
+      "epochs": 23
+    }
+  },
+  {
+    "dataset": "MOSEI",
+    "seed": 2026,
+    "MAE": 0.6549829840660095,
+    "Pearson": 0.5656331922514751,
+    "completion": {
+      "epochs": 12
+    }
+  },
+  {
+    "dataset": "MOSEI",
+    "seed": 2027,
+    "MAE": 0.6475698947906494,
+    "Pearson": 0.5571026046727611,
+    "completion": {
+      "epochs": 11
+    }
+  },
+  {
+    "dataset": "MOSEI",
+    "seed": 2028,
+    "MAE": 0.6525387167930603,
+    "Pearson": 0.5623951777132221,
+    "completion": {
+      "epochs": 11
+    }
+  }
+]
